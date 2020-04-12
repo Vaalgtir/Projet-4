@@ -1082,3 +1082,7 @@ h4 {
 #bloc-8 h2 {
     color: #FFFFFF!important;
 }
+
+#bloc-8 li {
+    font-size: 1.75rem;
+}
