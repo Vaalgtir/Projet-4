@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 1.75rem;
 }
 
 .tight-width-whitespace {
@@ -1039,4 +1039,22 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+/* Correctifs par Eric ENIONA*/
+
+.l-bloc .title h1{
+    font-size: 3rem;
+    font-weight: 500;
+    padding-bottom: 2rem;
+}
+
+.l-bloc h2 {
+    font-weight: 500;
+}
+
+.l-bloc blockquote {
+    margin: 5rem 25% 3rem 28%;
+    text-align: center;
+    border: 0;
 }
