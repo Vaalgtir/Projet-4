@@ -1043,18 +1043,34 @@ h4 {
 
 /* Correctifs par Eric ENIONA*/
 
-.l-bloc .title h1{
+#bloc-2-services .title h1{
     font-size: 3rem;
     font-weight: 500;
     padding-bottom: 2rem;
 }
 
-.l-bloc h2 {
+#bloc-2-services h2 {
     font-weight: 500;
 }
 
-.l-bloc blockquote {
+#bloc-2-services blockquote {
     margin: 5rem 25% 3rem 28%;
     text-align: center;
     border: 0;
+}
+
+#bloc-2-services blockquote footer {
+    color: #636262;
+}
+
+#bloc-4-portfolio h1 {
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 500;
+    padding-bottom: 5rem;
+    margin: 0;
+}
+
+#bloc-4-portfolio h2 {
+    color: #333333!important;
 }
