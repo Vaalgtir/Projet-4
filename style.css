@@ -542,7 +542,7 @@ a[data-lightbox]:hover::before {
     font-size: 32px;
     width: 50px;
     height: 50px;
-    margin-left: -25px;
+    margin-left: 40%;
     border-radius: 50%;
     background: rgba(0, 0, 0, .6);
     color: #FFF;
@@ -1042,6 +1042,10 @@ h4 {
 }
 
 /* Correctifs par Eric ENIONA*/
+
+html {
+    font-size: 11px;
+}
 
 #bloc-2-services .title h1{
     font-size: 3rem;
